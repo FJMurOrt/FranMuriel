@@ -8,7 +8,7 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web y filólogo ing
 
 Actualmente, estoy trabajando con tecnologías dedicadas al desarrollo web como PHP, Java, JavaScript, Node.js, Angular, entre muchas otras, así como también con bases de datos; sean consultas SQL, optimización o programación. Por otro lado, también he experimentado el desarrollo web con sistemas de gestión de contenido, como WordPress, con el que he desarrollado mi propio blog y una tienda online desarrollando yo mismo tanto el frontend como funcionalidades en el backend.
 
-En cuanto a mis intereses profesionales, me encantaría dedicarme a la computación en la nube, motivo por el cual actualmente estoy invirtiendo mi tiempo en aprender todo lo que pueda y más. Y además, también por iniciativa propia durante un tiempo, sentí mucha curiosidad acerca del procesamiento de datos, y me dediqué a leer y apreder sobre Python y los procesos ETL.
+En cuanto a mis intereses profesionales, además del desarrollo de aplicaciones, otro de mis intereses es la computación en la nube en el cual estoy invirtiendo tiempo en aprender todo lo que pueda y más. Y además, también por iniciativa propia durante un tiempo, sentí mucha curiosidad acerca del procesamiento de datos, y me dediqué a leer y apreder sobre Python y los procesos ETL.
 
 En lo personal, me considero una persona curiosa, por lo que aprender constantemente a través de lecturas, cursos y contenido audiovisual es uno de mis principales pasatiempos. También me defino como alguien calmado y reflexivo, lo que me ayuda mucho a evaluar y tomar decisiones difíciles.
 
