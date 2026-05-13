@@ -8,7 +8,7 @@ Mi nombre es Fran 😊, y antes de nada, me alegra saber que quieras saber sobre
 
 Actualmente me encuentro a las puertas de finalizar mis estudios en desarrollo de aplicaciones web, concretamente el 20 de Mayo de 2026, en el que he aprendido mucho sobre tecnologías que me han ayudado a realizar mis primeros proyectos; como JavaScript, Node.js, PHP o Angular y toda la creación, diseño y gestión de bases de datos con SQL.
 
-Más allá de esta estapa académica, uno de mis interéses profesionales es la computación en la nube ☁️ orientada a la análitica de datos 📊, a la que dedico todo el tiempo que puedo para aprender y poder desarrollarme profesionalmente en un futuro próximo. 🎯
+Más allá de esta estapa académica, uno de mis interéses profesionales es la computación en la nube ☁️ orientada a la análitica de datos 📊, a la que dedico todo el tiempo que puedo para aprender y poder desarrollarme profesionalmente en un futuro próximo. 🎯 Aunque estoy abierto a descubrir cualquier otra rama ya que el sector tecnológico me apasiona. 😊
 
 Si quisieras conocerme un poco más, que sepas que me encantan los idiomas. De hecho, me gradué en filología inglesa 🇬🇧 hace unos años y pude descubrir que, si algo me gusta también mucho, es trabajar en ambientes internacionales 🌍 y competir conmigo mismo por aprender nuevas lenguas 🇩🇪. También podría decir que me considero una persona con una mentalidad muy curiosa 💡, muy paciente, con mucha disciplina 🧱 y resiliencia 🧠. Soy además una persona a la que le encanta escuchar, me pasaría horas y horas sólo escuchando.
 
