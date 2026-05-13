@@ -44,7 +44,7 @@ Cómo últimas líneas, quiero mencionar que me encuentro abierto a unirme a nue
 
 ---
 
-## 🌱 Actualmente tengo toda mi cmirada puesta en...
+## 🌱 Actualmente tengo mi mirada puesta en...
 
+- Seguir desarrollandome como profesional mejorando cada día un poco más.
 - Aprender cloud ☁️
-- Seguir mejorando y aprendiendo más de lo que conozco y no conozco.
