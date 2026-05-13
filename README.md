@@ -2,17 +2,21 @@
 GMurit/GMurit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 ¡Hola, soy Fran! ¡Bienvenido a mi perfil!
+# ¡Hola y bienvenido a mi perfil! 👋✨
 
-Soy estudiante de segundo año de Desarrollo de Aplicaciones Web y filólogo inglés. 
+Mi nombre es Fran 😊, y antes de nada, me alegra saber que quieras saber sobre mí, aunque sólo sea un poquito, y estés leyendo esto.
 
-Actualmente, estoy trabajando con tecnologías dedicadas al desarrollo web como PHP, Java, JavaScript, Node.js, Angular, entre muchas otras, así como también con bases de datos; sean consultas SQL, optimización o programación. Por otro lado, también he experimentado el desarrollo web con sistemas de gestión de contenido, como WordPress, con el que he desarrollado mi propio blog y una tienda online desarrollando yo mismo tanto el frontend como funcionalidades en el backend.
+Actualmente me encuentro a las puertas de finalizar mis estudios en desarrollo de aplicaciones web en el que he aprendido mucho sobre tecnologías que me han ayudado a realizar mis primeros proyectos; como JavaScript, Node.js, PHP o Angular y toda la creación, diseño y gestión de bases de datos con SQL.
 
-En cuanto a mis intereses profesionales, además del desarrollo de aplicaciones, otro de mis intereses es la computación en la nube en el cual estoy invirtiendo tiempo en aprender todo lo que pueda y más. Y además, también por iniciativa propia durante un tiempo, sentí mucha curiosidad acerca del procesamiento de datos, y me dediqué a leer y apreder sobre Python y los procesos ETL.
+Más allá de esta estapa académica, uno de mis interéses profesionales es la computación en la nube ☁️ orientada a la análitica de datos 📊, a la que dedico todo el tiempo que puedo para aprender y poder desarrollarme profesionalmente en un futuro próximo. 🎯
 
-En lo personal, me considero una persona curiosa, por lo que aprender constantemente a través de lecturas, cursos y contenido audiovisual es uno de mis principales pasatiempos. También me defino como alguien calmado y reflexivo, lo que me ayuda mucho a evaluar y tomar decisiones difíciles.
+Si quisieras conocerme un poco más, que sepas que me encantan los idiomas. De hecho, me gradué en filología inglesa 🇬🇧 hace unos años y pude descubrir que, si algo me gusta también mucho, es trabajar en ambientes internacionales 🌍 y competir conmigo mismo por aprender nuevas lenguas 🇩🇪. También podría decir que me considero una persona con una mentalidad muy curiosa 💡, muy paciente, con mucha disciplina 🧱 y resiliencia 🧠. Soy además una persona a la que le encanta escuchar, me pasaría horas y horas sólo escuchando.
 
-¡Si quieres sabes más de mí, no dude en ponerte en contacto conmigo!
+Cómo últimas líneas, quiero mencionar que me encuentro abierto a unirme a nuevas oportunidades con equipos con los que poder desarrollarme como profesional. 🚀
+
+¡No dudes en visitar mi perfil de GitHub 👨‍💻 por si quisieras echarle un ojillo y así ver en los proyectos, y otros repositorios, en los que he podido estar trabajando!
+
+¡Un placer y hasta pronto! 🤝
 
 ---
 
