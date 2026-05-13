@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 Mi nombre es Fran 😊, y antes de nada, me alegra saber que quieras saber sobre mí, aunque sólo sea un poquito, y estés leyendo esto.
 
-Actualmente me encuentro a las puertas de finalizar mis estudios en desarrollo de aplicaciones web en el que he aprendido mucho sobre tecnologías que me han ayudado a realizar mis primeros proyectos; como JavaScript, Node.js, PHP o Angular y toda la creación, diseño y gestión de bases de datos con SQL.
+Actualmente me encuentro a las puertas de finalizar mis estudios en desarrollo de aplicaciones web, concretamente el 20 de Mayo de 2026, en el que he aprendido mucho sobre tecnologías que me han ayudado a realizar mis primeros proyectos; como JavaScript, Node.js, PHP o Angular y toda la creación, diseño y gestión de bases de datos con SQL.
 
 Más allá de esta estapa académica, uno de mis interéses profesionales es la computación en la nube ☁️ orientada a la análitica de datos 📊, a la que dedico todo el tiempo que puedo para aprender y poder desarrollarme profesionalmente en un futuro próximo. 🎯
 
