@@ -10,7 +10,7 @@ Actualmente me encuentro a las puertas de finalizar mis estudios en desarrollo d
 
 Más allá de esta estapa académica, uno de mis interéses profesionales es la computación en la nube ☁️ orientada a la análitica de datos 📊, a la que dedico todo el tiempo que puedo para aprender y poder desarrollarme profesionalmente en un futuro próximo. 🎯 Aunque estoy abierto a descubrir cualquier otra rama ya que el sector tecnológico me apasiona. 😊
 
-Si quisieras conocerme un poco más, que sepas que me encantan los idiomas. De hecho, me gradué en filología inglesa 🇬🇧 hace unos años y pude descubrir que, si algo me gusta también mucho, es trabajar en ambientes internacionales 🌍 y competir conmigo mismo por aprender nuevas lenguas 🇩🇪. También podría decir que me considero una persona con una mentalidad muy curiosa 💡, muy paciente, con mucha disciplina 🧱 y resiliencia 🧠. Soy además una persona a la que le encanta escuchar, me pasaría horas y horas sólo escuchando.
+Si quisieras conocerme un poco más, que sepas que me encantan los idiomas. De hecho, me gradué en filología inglesa hace unos años y pude descubrir que, si algo me gusta también mucho, es trabajar en ambientes internacionales 🌍 y competir conmigo mismo por aprender nuevas lenguas. También podría decir que me considero una persona con una mentalidad muy curiosa 💡, muy paciente, con mucha disciplina 🧱 y resiliencia 🧠. Soy además una persona a la que le encanta escuchar, me pasaría horas y horas sólo escuchando.
 
 Cómo últimas líneas, quiero mencionar que me encuentro abierto a unirme a nuevas oportunidades con equipos con los que poder desarrollarme como profesional. 🚀
 
