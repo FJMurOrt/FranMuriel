@@ -50,7 +50,8 @@ Si quisieras conocerme un poco más, que sepas que me encantan los idiomas. De h
 
 | Proyecto | Descripción |
 |---|---|
-| [`inventario-cloud-k8s`](enlace) | Despliegue de mi API en Kubernetes con GitOps (ArgoCD) y observabilidad (Prometheus + Grafana) |
-| [`inventario-cloud-fastapi`](enlace) | Desarrollo de mi API REST con FastAPI, SQLAlchemy, tests y CI/CD |
-| [`gcp-landing-zone`](enlace) | Construcción de Landing Zones en GCP con Terraform (IAM, VPC, Zero-Trust) |
-| [`cliniko`](enlace) | Plataforma web de gestión médica con PHP, MySQL, Bootstrap, JS/AJAX, Docker y CI/CD |
+| [`inventario-cloud-k8s`](https://github.com/FJMurOrt/inventario-cloud-k8s) | Despliegue de mi API en Kubernetes con GitOps (ArgoCD) y observabilidad (Prometheus + Grafana) |
+| [`inventario-cloud-fastapi`](https://github.com/FJMurOrt/inventario-cloud-fastapi) | Desarrollo de mi API REST con FastAPI, SQLAlchemy, tests y CI/CD |
+| [`gcp-landing-zone-1`](https://github.com/FJMurOrt/gcp-landing-zone) | Construcción de una Landing Zone en GCP con Terraform (IAM, VPC, Zero-Trust) |
+| [`gcp-landing-zone-2`](https://github.com/FJMurOrt/gcp-landing-zone-2) | Construcción de una Landing Zone en GCP con Terraform (IAM, VPC, Zero-Trust) |
+| [`cliniko`](https://github.com/FJMurOrt/cliniko) | Plataforma web de gestión médica con PHP, MySQL, Bootstrap, JS/AJAX, Docker y CI/CD |
