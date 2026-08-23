@@ -53,4 +53,4 @@ Si quisieras conocerme un poco más, que sepas que me encantan los idiomas. De h
 | [`inventario-cloud-k8s`](enlace) | Despliegue de mi API en Kubernetes con GitOps (ArgoCD) y observabilidad (Prometheus + Grafana) |
 | [`inventario-cloud-fastapi`](enlace) | Desarrollo de mi API REST con FastAPI, SQLAlchemy, tests y CI/CD |
 | [`gcp-landing-zone`](enlace) | Construcción de Landing Zones en GCP con Terraform (IAM, VPC, Zero-Trust) |
-| [`cliniko`](enlace) | Plataforma web de gestión médica con PHP, MySQL, Docker y CI/CD |
+| [`cliniko`](enlace) | Plataforma web de gestión médica con PHP, MySQL, Bootstrap, JS/AJAX, Docker y CI/CD |
