@@ -46,7 +46,7 @@ Si quisieras conocerme un poco más, que sepas que me encantan los idiomas. De h
 
 ---
 
-## 🚀 Algunos de mis proyectos que me gustaría destacar son
+## 🚀 Algunos de mis proyectos que me gustaría destacar son...
 
 | Proyecto | Descripción |
 |---|---|
