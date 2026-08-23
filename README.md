@@ -4,47 +4,61 @@ You can click the Preview link to take a look at your changes.
 --->
 # ¡Hola y bienvenido a mi perfil! 👋✨
 
-Mi nombre es Fran 😊, y antes de nada, me alegra saber que quieras saber sobre mí y estés leyendo esto.
+Mi nombre es Fran y actualmente dedico mi tiempo a construir proyectos que involucran la infraestructura como Código, orquestación con Kubernetes, CI/CD, GitOps y observabilidad que es lo que me gusta hacer.
 
-Actualmente, me acabo de graduar en Desarrollo de Aplicaciones Web, hace un mes prácticamente, donde he aprendido mucho sobre tecnologías que me han ayudado a realizar mis primeros proyectos; como JavaScript, Node.js, PHP o Angular y toda la creación, diseño y gestión de bases de datos con SQL.
+Si quisieras conocerme un poco más, que sepas que me encantan los idiomas. De hecho, me gradué en Filología Inglesa hace unos años y descubrí que, si algo me gusta también mucho, es trabajar en ambientes internacionales 🌍 y competir conmigo mismo por aprender nuevas lenguas 🗣️.
 
-Más allá de esta etapa académica, uno de mis intereses profesionales es la computación en la nube ☁️, a la que dedico tiempo para aprender y poder desarrollarme profesionalmente en un futuro próximo 🎯y, dentro de ella, me atraen especialmente áreas como Cloud Engineering ☁️, DevOps 🛠️, la analítica de datos 📊 o el desarrollo e infrastructura para inteligencia artificial 🤖.
-
-Si quisieras conocerme un poco más, que sepas que me encantan los idiomas. De hecho, me gradué en filología inglesa hace unos años y pude descubrir que, si algo me gusta también mucho, es trabajar en ambientes internacionales 🌍 y competir conmigo mismo por aprender nuevas lenguas 🗣️. También podría decir que me considero una persona con una mentalidad muy curiosa 💡, muy paciente, con mucha disciplina 🧱 y resiliencia 🧠. Soy además una persona a la que le encanta escuchar, me pasaría horas y horas sólo escuchando.
-
-Cómo últimas líneas, quiero mencionar que me encuentro abierto a unirme a nuevas oportunidades con equipos con los que poder desarrollarme como profesional. 🚀
-
-¡No dudes en visitar mi perfil de GitHub 👨‍💻 por si quisieras echarle un ojillo y así ver en los proyectos, y otros repositorios, en los que he podido estar trabajando!
+¡No dudes en visitar mis repositorios para ver los proyectos en los que he estado trabajando!
 
 ¡Un placer y hasta pronto! 🤝
 
 ---
 
-## 💻 Técnologías con las que he trabajado en desarrollo web
+## ☁️ Cloud & DevOps
 
-| Backend | Frontend | CMS |
-|---------|----------|-----|
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) |  |
-| ![AJAX](https://img.shields.io/badge/AJAX-005C9C?style=for-the-badge&logo=ajax&logoColor=white) | ![ECMAScript](https://img.shields.io/badge/ECMAScript-000000?style=for-the-badge&logo=javascript&logoColor=white) |  |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |  |  |
+| Cloud & IaC | Contenedores & Orquestación | CI/CD & GitOps | Observabilidad |
+|---|---|---|---|
+| ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) |
+| ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | | | |
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) | | | |
 
 ---
 
-## 🐍 Tecnologías que he usado para aprender la extracción, limpieza y guardado de datos.
+## 📜 Certificaciones
 
-| Lenguajes | Librerías | Entornos |
-|-----------|-----------|----------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) |
-|  | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
-|  | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) |
-|  | ![Seaborn](https://img.shields.io/badge/Seaborn-77AC30?style=for-the-badge&logo=seaborn&logoColor=white) |  |
-|  | ![Requests](https://img.shields.io/badge/Requests-005571?style=for-the-badge&logo=python&logoColor=white) |  |
+![GCP ACE](https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GCP CDL](https://img.shields.io/badge/GCP-Cloud_Digital_Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+## 💻 Desarrollo Backend, Frontend & CMS
+
+| Backend | Frontend | CMS |
+|---------|----------|-----|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) | |
+| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | | |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | | |
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción |
+|---|---|
+| [`inventario-cloud-k8s`](enlace) | API en Kubernetes con GitOps (ArgoCD) y observabilidad (Prometheus + Grafana) |
+| [`inventario-cloud-fastapi`](enlace) | API REST con FastAPI, SQLAlchemy, tests y CI/CD |
+| [`gcp-landing-zone`](enlace) | Landing Zone en GCP con Terraform (IAM, VPC, Zero-Trust) |
+| [`orquestacion-con-kubernetes`](enlace) | Ejercicios progresivos de Kubernetes |
 
 ---
 
 ## 🌱 Actualmente tengo mi mirada puesta en...
 
-- Seguir desarrollandome como profesional mejorando cada día un poco más.
-- Cloud Engineering ☁️
+- Automatización con Python y Bash 🐧
+- Ansible para configuración de infraestructura
+- Seguir creciendo hacia Platform Engineering y MLOps ☁️🤖
