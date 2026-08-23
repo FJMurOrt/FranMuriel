@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # ¡Hola y bienvenido a mi perfil! 👋✨
 
-Mi nombre es Fran y actualmente dedico mi tiempo a construir proyectos que involucren la infraestructura como Código, orquestación con Kubernetes, CI/CD, GitOps y observabilidad.
+Mi nombre es Fran y actualmente dedico mi tiempo a construir proyectos que involucren la infraestructura como código (IaC), orquestación con Kubernetes, CI/CD, GitOps y observabilidad.
 
 ¡No dudes en visitar mis repositorios para ver los proyectos en los que he estado trabajando!
 
