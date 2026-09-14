@@ -56,12 +56,11 @@ Mi nombre es Fran y actualmente dedico mi tiempo a construir proyectos que invol
 
 | Proyecto | Descripción |
 |---|---|
+| [`inventario-cloud-k8s`](https://github.com/FJMurOrt/inventario-cloud-k8s) | Despliegue de mi API en Kubernetes con GitOps (ArgoCD), IA, observabilidad (Prometheus + Grafana) y Automatización con n8n) 
+ |
 | [`automatizacion-api-inventario-n8n`](https://github.com/FJMurOrt/automatizacion-api-inventario-n8n) | Flujos con n8n conectados a mi API de inventario: alertas por coste y notificaciones en tiempo real (webhooks) |
-| [`agente-inventario-ia`](https://github.com/FJMurOrt/agente-inventario-ia) | Agente de IA con function calling (Gemini API) que consulta mi API de inventario en lenguaje natural |
-| [`inventario-cloud-k8s`](https://github.com/FJMurOrt/inventario-cloud-k8s) | Despliegue de mi API en Kubernetes con GitOps (ArgoCD) y observabilidad (Prometheus + Grafana) |
-| [`inventario-cloud-fastapi`](https://github.com/FJMurOrt/inventario-cloud-fastapi) | Desarrollo de mi API REST con FastAPI, SQLAlchemy, tests y CI/CD |
-| [`infraestructura-gcp-con-terraform`](https://github.com/FJMurOrt/infraestructura-gcp-con-terraform) | Colección de ejercicios de infraestructura como código con Terraform en GCP |
-| [`gcp-landing-zones`](https://github.com/FJMurOrt/gcp-landing-zones) | Landing Zones en GCP con Terraform (IAM, VPC, Zero-Trust) |
+| [`registro-incidencias-eventos-gcp`](https://github.com/FJMurOrt/registro-incidencias-eventos-gcp) | Sistema de registro de incidencias con arquitectura de eventos (Pub/Sub, Cloud Run, Firestore) en GCP |
+| [`ci-cd-gcp-despliegue`](https://github.com/FJMurOrt/ci-cd-gcp-despliegue) | Pipeline de CI/CD completo: GitHub Actions, Docker, Terraform y despliegue en Cloud Run (GCP) |
 | [`scripts-de-automatizaciones`](https://github.com/FJMurOrt/scripts-de-automatizaciones) | Scripts de automatización en Python y Bash |
 | [`cliniko`](https://github.com/FJMurOrt/cliniko) | Plataforma web de gestión médica con PHP, MySQL, Bootstrap, JS/AJAX, Docker, Git, GitHub, y CI/CD |
 
