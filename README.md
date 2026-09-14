@@ -57,10 +57,9 @@ Mi nombre es Fran y actualmente dedico mi tiempo a construir proyectos que invol
 | Proyecto | Descripción |
 |---|---|
 | [`inventario-cloud-k8s`](https://github.com/FJMurOrt/inventario-cloud-k8s) | Despliegue de mi API en Kubernetes con GitOps (ArgoCD), IA, observabilidad (Prometheus + Grafana) y Automatización con n8n) |
-| [`automatizacion-api-inventario-n8n`](https://github.com/FJMurOrt/automatizacion-api-inventario-n8n) | Flujos con n8n conectados a mi API de inventario: alertas por coste y notificaciones en tiempo real (webhooks) |
 | [`registro-incidencias-eventos-gcp`](https://github.com/FJMurOrt/registro-incidencias-eventos-gcp) | Sistema de registro de incidencias con arquitectura de eventos (Pub/Sub, Cloud Run, Firestore) en GCP |
 | [`ci-cd-gcp-despliegue`](https://github.com/FJMurOrt/ci-cd-gcp-despliegue) | Pipeline de CI/CD completo: GitHub Actions, Docker, Terraform y despliegue en Cloud Run (GCP) |
-| [`scripts-de-automatizaciones`](https://github.com/FJMurOrt/scripts-de-automatizaciones) | Scripts de automatización en Python y Bash |
 | [`cliniko`](https://github.com/FJMurOrt/cliniko) | Plataforma web de gestión médica con PHP, MySQL, Bootstrap, JS/AJAX, Docker, Git, GitHub, y CI/CD |
+| [`scripts-de-automatizaciones`](https://github.com/FJMurOrt/scripts-de-automatizaciones) | Scripts de automatización en Python y Bash |
 
 ---
